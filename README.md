@@ -6,7 +6,7 @@ This is the repo for the ECCV2024 project
 >Yifan Zhan, Zhuoxiao Li, Muyao Niu, Zhihang Zhong,  Shohei Nobuhara, Ko Nishino, Yinqiang Zheng\
 >European Conference on Computer Vision (ECCV), 2024
 
-![image](https://github.com/Yifever20002/NeRFrac/blob/main/images/pipeline.png)
+![image](https://github.com/Yifever20002/KFD-NeRF/blob/main/images/pipeline.PNG)
 
 ## About KFD-NeRF
 
