@@ -2,7 +2,7 @@
 
 This is the repo for the ECCV2024 project
 
->[KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter]\
+>KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter\
 >Yifan Zhan, Zhuoxiao Li, Muyao Niu, Zhihang Zhong,  Shohei Nobuhara, Ko Nishino, Yinqiang Zheng\
 >European Conference on Computer Vision (ECCV), 2024
 
