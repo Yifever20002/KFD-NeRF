@@ -1,4 +1,5 @@
 # KFD-NeRF
+### [Paper]([https://arxiv.org/abs/2403.19160](https://arxiv.org/abs/2407.13185))
 
 This is the repo for the ECCV2024 project
 
