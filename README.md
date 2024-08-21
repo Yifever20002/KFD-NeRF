@@ -4,7 +4,7 @@
 This is the repo for the ECCV2024 project
 
 >KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter\
->Yifan Zhan, Zhuoxiao Li, Muyao Niu, Zhihang Zhong,  Shohei Nobuhara, Ko Nishino, Yinqiang Zheng\
+>[Yifan Zhan](https://yifever20002.github.io/), Zhuoxiao Li, [Muyao Niu](https://myniuuu.github.io/), [Zhihang Zhong](https://zzh-tech.github.io/),  Shohei Nobuhara, Ko Nishino, Yinqiang Zheng\
 >European Conference on Computer Vision (ECCV), 2024
 
 ![image](https://github.com/Yifever20002/KFD-NeRF/blob/main/images/pipeline.PNG)
